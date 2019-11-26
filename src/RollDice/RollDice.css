@@ -1,0 +1,27 @@
+.game {
+  max-width: 800px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.game button {
+  display: block;
+  margin: 0 auto;
+  padding: 1rem 4rem;
+  background: black;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
+  margin-top: 2rem;
+}
+
+.game button:focus {
+  outline: none;
+}
+
+.game button:hover {
+  background: darkslateblue;
+  cursor: pointer;
+}
