@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-exercise/static/css/main.03602889.chunk.css",
+    "main.js": "/dice-exercise/static/js/main.e201d0c5.chunk.js",
+    "main.js.map": "/dice-exercise/static/js/main.e201d0c5.chunk.js.map",
+    "runtime~main.js": "/dice-exercise/static/js/runtime~main.1e9039e7.js",
+    "runtime~main.js.map": "/dice-exercise/static/js/runtime~main.1e9039e7.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/dice-exercise/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/dice-exercise/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/dice-exercise/index.html",
+    "precache-manifest.51a029278b826b61902b410b3e5001d0.js": "/dice-exercise/precache-manifest.51a029278b826b61902b410b3e5001d0.js",
+    "service-worker.js": "/dice-exercise/service-worker.js",
+    "static/css/main.03602889.chunk.css.map": "/dice-exercise/static/css/main.03602889.chunk.css.map"
+  }
+}
